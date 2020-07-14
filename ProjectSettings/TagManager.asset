@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - room
+  - player
+  - OB
+  - body
+  - fly
+  - enemy2
+  - magic
+  - up
+  - Enemy
+  - teer
+  - heart
+  - speed
+  - Attack
+  - thorn
+  - updoor
+  - downdoor
+  - leftdoor
+  - rightdoor
+  - BossSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - WallLayer
+  - player
+  - room
+  - MinMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: room
+    uniqueID: 1207005389
+    locked: 0
+  - name: slider
+    uniqueID: 3133383009
+    locked: 0
+  - name: Obsetacle
+    uniqueID: 2053925669
+    locked: 0
+  - name: player
+    uniqueID: 2319895307
+    locked: 0
+  - name: Minmap
+    uniqueID: 2583855579
+    locked: 0
